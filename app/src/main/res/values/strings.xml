@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListWithRecyclerView</string>
+    <string name="id_ed">Insira seu ID</string>
+    <string name="nome_ed">Insira seu nome</string>
+    <string name="curso_ed">Insira seu Curso</string>
+    <string name="ano_ed">Insira o ano</string>
+    <string name="semestre_ed">Insira o semestre</string>
+</resources>
